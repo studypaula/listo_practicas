@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Responsable: Albertosiuuuuuu
+=======
+Responsable: Alberto
+>>>>>>> origin/feature/practicandogit_b
